@@ -1,2 +1,1 @@
-# MathModelling
-Dynamic and Chaos Systems
+Jupyter Notebook files written in MA-4444: Math Modelling
